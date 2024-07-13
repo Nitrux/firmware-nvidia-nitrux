@@ -1,0 +1,5 @@
+firmware-nvidia-nitrux (0.0.1)  nitrux; urgency=medium
+
+  * Create package.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 12 Jul 2024 21:48:00 -0500
