@@ -8,7 +8,7 @@ Homepage: https://github.com/Nitrux/firmware-nvidia-nitrux
 
 
 Package: firmware-nvidia-nitrux
-Architecture: nvidia64
+Architecture: amd64
 Conflicts: firmware-nvidia-graphics
 Description: Extra firmware for Nouevau.
  This package includes newer firmware files for NVIDIA graphics cards.
