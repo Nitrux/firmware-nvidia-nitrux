@@ -1,3 +1,9 @@
+firmware-nvidia-nitrux (0.0.3)  nitrux; urgency=medium
+
+  * Remove unnecessary file.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 17 Jul 2024 20:15:00 -0500
+
 firmware-nvidia-nitrux (0.0.2)  nitrux; urgency=medium
 
   * Add symlinks for directories that do not have physical files.
